@@ -56,6 +56,6 @@ exports.parse = function(req, res){
                 });
 
             });
-        console.log(result);
+        document.write(episodes);
     });
 };
